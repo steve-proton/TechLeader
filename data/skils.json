@@ -2,16 +2,107 @@
     "postings": [
       {
         "postId": 1,
-        "title": "DynamoDB",
-        "company": "",
+        "title": "Senior Manager Software Development",
+        "company": "CVS Health",
+        "date":"",
+        "fit":"4",
         "responsibilities": [
-            "Consistent, single-digit millisecond latency at any scale",
-            "Flexible data model",
-            "Reliable performance",
-            "Automatic scaling of throughput capacity,"
+            "Hire new development staff, oversee each aspect of the development process, and act as the liaison between your team and upper management.",
+            "Architect, Design and Develop cloud scalable applications & services in a containerized and CI/CD environment",
+            "Provide ongoing maintenance, support and enhancements in existing systems and platforms.",
+            "Improve operations by conducting systems analysis; recommending changes in policies and procedures",
+            "Provide recommendations for continuous improvement.",
+            "Demonstrate deep knowledge of, and ability to operationalize, scalable web/webservices applications with industry standards and best practices.",
+            "Grow engineering teams by interviewing, recruiting and hiring",
+            "Guide, coach and mentor software development engineers.",
+            "Make informed decisions quickly and taking ownership of services and applications at scale",
+            "Stay on the leading edge of development practices",
+            "Provide technical guidance in software design and development activities.",
+            "Participate in design reviews and recommend improvements.",
+            "Provide support in all phases of SDLC and ensure to deliver high-quality products.",
+            "Assist in technical audits and make sure to implement audit recommendations."
         ],
-        "criteria": [
-            {"id":"1","name":"DynamoDB Stream","text":"DynamoDB Streams captures a time-ordered sequence of item-level modifications in a DynamoDB table and durably stores the information for up to 24 hours"}
+        "qualifications": [
+            "6+ years of software development in enterprise/ web/ cloud applications and 4+ years as a development manager.",
+            "We run a multi-cloud platform and containerize applications. You should have good experience of how to build, test, and deploy code to run on cloud infrastructure.",
+            "Experience with large scale distributed systems",
+            "Experience and interest in software development tools and development process automation",
+            "Experience developing using AWS/GCP/Azure or similar cloud technologies",
+            "Deep understanding of enterprise systems and data integration",
+            "Experience in writing production code",
+            "Expert knowledge with functional, imperative and object-oriented languages and methodologies",
+            "Experience with programming languages/tools including: Java, NodeJS, Python, Go, JavaScript and Shell Scripts.",
+            "Knowledge of emerging platforms, Linux and open source technologies.",
+            "Experience with infrastructure automation technologies like Docker, Kubernetes, Vagrant, etc.",
+            "Experience with build automation technologies like Maven, Gradle, Jenkins, etc.",
+            "Experienced in CI/CD, Cloud DevOps and operationalized distributed and highly scalable & available cloud applications.",
+            "Experience in partnering with architecture, product and program management teams to influence product development assisting or improving products.",
+            "Experience managing engineers across multiple locations and hiring and developing great development teams",
+            "Ability to handle multiple competing priorities in a fast-paced environment.",
+            "Track record of building and delivering critical, 24x7 production systems",
+            "Deep understanding of agile project management methodologies",
+            "Excellent interpersonal skills and enjoy working in a highly iterative, agile, and open team environment.",
+            "Excellent verbal and written communication skills.",
+            "A strong business and technical vision and the ability to translate these in business and technical approaches, and lead engineering efforts to meet aggressive timelines with optimal solutions",
+            "Has led teams who architected, designed, delivered and operationalized scalable microservices-based web/ webservices applications in cloud-native environments.",
+            "Analytical thinking - able to simplify complex problems, processes or projects into component parts explore and evaluate them systematically",
+            "Strategic thinking – able to identify a vision along with the plans, which need to be implemented to meet the end goal, evaluating situations, decisions and issues in the short, medium and long term."
+        ]
+      },
+      {
+        
+        "postId": 2,
+        "title": "Software Development Manager - AWS Transfer Family",
+        "company": "Amazon",
+        "date":"",
+        "fit":"2",
+        "responsibilities": [
+
+        ],
+        "qualifications": [
+            "Bachelors degree or higher in Computer Science, Engineering or related field",
+            "5+ years professional experience in system software development and delivery",
+            "3+ years of experience building, leading, managing and mentoring high-performance engineering teams",
+            "Proven object-oriented design and implementation skills (Java, and/or C++), preferably on Linux",
+            "Deep understanding of computing systems, software architecture, data structures and algorithms",
+            "Proven track record iteratively delivering high quality software on time",
+            "Experience in Agile/SCRUM enterprise-scale software development",
+            "Experience developing system software, distributed systems and data networking offerings",
+            "Knowledge of storage solutions",
+            "Working knowledge of storage performance challenges and their solutions",
+            "Proficient in network, distributed, asynchronous and concurrent programming",
+            "Familiar with building secure software and security algorithms",
+            "Experience building and operating scalable infrastructure software or distributed systems",
+            "Demonstrated ability to achieve stretch goals in a highly innovative and fast paced environment",
+            "Experience developing a product vision"
+        ]
+      },
+     
+      {
+        "postId": 3,
+        "title": " Software Development Manager - Payments",
+        "company": "Chewy",
+        "date":"",
+        "fit":"3",
+        "responsibilities": [
+            "Manage and lead a team of 4-7 experienced engineers responsible for building Chewy's Payments systems and complimentary products.",
+            "Drive technical decisions and be accountable for the delivery of solutions on initiatives they own.",
+            "Drive the team toward execution of corporate strategic objectives",
+            "Contribute to road map definition in collaboration with technical and product leadership.",
+            "Review code and implementations; provide feedback for technical contributors.",
+            "Must be able to identify and manage priorities within the context of overall company objectives based on data driven decision making.",
+            "Build your team and mentor the growth of the existing team.",
+            "Establish technical standards and guidelines to ensure integrity of systems and compliance with company IT standards, policies, and processes",
+            "Ensure service level agreements with business units are met",
+            "Implement operations processes that cover day-to-day job flow execution and a support model that reduces support requirements on engineers",
+            "Implement process measurements to ensure quality standards and throughput is maintained by each engineer"
+        ],
+        "qualifications": [
+            "Demonstrated history of implementing and managing multiple software development projects.",
+            "5+ years of experience in Software Development as a software engineer",
+            "2+ years of experience in Engineering Management",
+            "Fluency in 1 or more programming languages and database technologies",
+            "Proven delivery experience working under an Agile/Scrum methodology"
         ]
       }
     ]
