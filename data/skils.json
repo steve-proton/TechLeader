@@ -1,0 +1,18 @@
+{
+    "postings": [
+      {
+        "postId": 1,
+        "title": "DynamoDB",
+        "company": "",
+        "responsibilities": [
+            "Consistent, single-digit millisecond latency at any scale",
+            "Flexible data model",
+            "Reliable performance",
+            "Automatic scaling of throughput capacity,"
+        ],
+        "criteria": [
+            {"id":"1","name":"DynamoDB Stream","text":"DynamoDB Streams captures a time-ordered sequence of item-level modifications in a DynamoDB table and durably stores the information for up to 24 hours"}
+        ]
+      }
+    ]
+  }
