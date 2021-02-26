@@ -5,6 +5,59 @@
 },
 {
     "id":"encryption at rest"
-}
-    ]
+},
+{
+    "id":"ssl/tls connection",
+    "desc":["date sent and received unencrypted but encrypted over the wire i.e. in-transit",
+            "If someone is eavesdropping on that connection on the internet they would be able to read data"]
+},
+{
+    "id":"encryption at rest"
+},
+{
+    "id":"symetric encryption",
+    "desc":["unecrypted file goes through an encyption process using an encryption key resulting in an encypted file",
+        "to decrypt, the process is reversed using the SAME key",
+        "if they key is compromised, you have a problem since anyone can decrypt your data"]
+},
+{
+    "id":"asymetric encryption",
+    "desc":["you have two keys: 1 public, 1 private. Public key can be seen by everyone on the internet",
+            "You can encrypt the file with your public key and can only be decrypted with the private key",
+            "If you encrypt with private key, it can be decrypted with a public key",
+            "Examples are SSL/TLS and SSH"]
+},
+{
+    "id":"envelope encryption",
+    "desc":["You encrypt the data key to protect it so you need a master key",
+            "You can store the encrypted data key with the encypted data",
+            "data encryption takes time, you migth be able to just re-encrypt the key ",
+            ""]
+},
+{
+    "id":"AWS KMS - Key Management Service",
+    "desc":["Service used to create and control encyption keys",
+        "Customer Master Keys are primary resources in KMS include key id, creation date, description, key state and key material used for encrpty/decrypt",
+        "Customer Managed Keys - created by developers",
+        "AWS Managed Keys are used by AWS managed services for encryption",
+        ""]
+    },
+    {
+    "id":"ciphertext",
+    "desc":["result of encryption performed on plaintextusing an algorithm"
+       ]
+    },
+    {
+    "id":"",
+    "desc":[""]
+    },
+    {
+        "id":"",
+        "desc":[""]
+    },
+    {
+        "id":"",
+        "desc":[""]
+    }
+]
 }
